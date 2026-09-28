@@ -34,7 +34,7 @@ GitHub 官方操作说明：[配置 Pages 发布来源](https://docs.github.com/
 | --- | --- |
 | Privacy Policy URL（必填） | `https://<你的GitHub用户名>.github.io/schedia/privacy/` |
 | User Privacy Choices URL（选填，建议填写） | `https://<你的GitHub用户名>.github.io/schedia/privacy-choices/` |
-| Support URL | `https://<你的GitHub用户名>.github.io/schedia/support/` |
+| Support URL | `https://<你的GitHub用户名>.github.io/schedia/support/index.html` |
 | Marketing URL | `https://<你的GitHub用户名>.github.io/schedia/` |
 
 如果仓库名本身是 `<你的GitHub用户名>.github.io`，上述网址中**去掉 `/schedia`**。如果采用其他仓库名，也把网址中的 `schedia` 替换成实际仓库名。App Store Connect 的字段说明见 [Apple App Privacy](https://developer.apple.com/help/app-store-connect/reference/app-privacy/) 和 [Platform Version Information](https://developer.apple.com/help/app-store-connect/reference/app-information/platform-version-information/)。
